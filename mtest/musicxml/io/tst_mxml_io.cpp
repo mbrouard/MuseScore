@@ -107,7 +107,7 @@ private slots:
       void noteheads() { mxmlIoTest("testNoteheads"); }
       void notesRests1() { mxmlIoTest("testNotesRests1"); }
       void notesRests2() { mxmlIoTest("testNotesRests2"); }
-      void numberedLyrics() { mxmlIoTestRef("testNumberedLyrics"); }
+      void repeatCounts() { mxmlIoTest("testRepeatCounts"); }
       void restsNoType() { mxmlIoTestRef("testRestsNoType"); }
       void slurTieLineStyle() { mxmlIoTest("testSlurTieLineStyle"); }
       void slurs() { mxmlIoTest("testSlurs"); }
